@@ -1,5 +1,9 @@
 # Documentation ShinyApp
 
+## ShinyApp
+
+The ShinyApp is published on the Shiny website (including this documentation): https://stephla.shinyapps.io/ToothgrowthShinyApp/
+
 ## Toothgrowth dataset
 
 For this app, the `Toothgrowth` dataset in R is used. This dataset shows the effect of viatim C on tooth growth in guinea pigs.  
